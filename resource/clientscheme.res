@@ -2886,13 +2886,92 @@ Scheme
 			}
 		}
 
-		Biko_Black
+		BikoRegular12
 		{
 			"1"
 			{
-				"name"		"Biko-Black"
-				"tall"		"15"
-				"weight"	"500"
+				"name"		"Biko"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular16
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular18
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular24
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular28
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular32
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular36
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular42
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular48
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"48"
 				"antialias" "1"
 			}
 		}
