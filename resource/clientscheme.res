@@ -2886,8 +2886,22 @@ Scheme
 			}
 		}
 
+		Biko_Black
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 
+	// Custom Fonts 
+	
+	
+	
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5290,5 +5304,21 @@ Scheme
 			}
 		}			
 		"7" "resource/ocra.ttf"
+		
+		"8"
+		{
+			"font" "resource/fonts/Biko_Black.otf"
+			"name" "Biko-Black"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Biko_Bold.otf"
+			"name" "Biko-Bold"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Biko_Regular.otf"
+			"name" "Biko"
+		}
 	}
 }
