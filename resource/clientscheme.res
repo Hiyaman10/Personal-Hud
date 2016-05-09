@@ -18,6 +18,12 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+	
+	// My HUD colors
+	
+		"Yellow_myhud"			"255 255 0 255"
+	
+	
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
